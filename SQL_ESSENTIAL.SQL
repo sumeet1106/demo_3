@@ -239,3 +239,5 @@ INSERT INTO employees (name, department, salary, hire_date) VALUES
  SELECT * 
  FROM EMPLOYEES
  WHERE YEAR(HIRE_DATE) = 2022;
+select *
+from employees;
